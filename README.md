@@ -1,2 +1,2 @@
-🔭 I’m currently working on Data Science stuff
-🌱 I’m always keen on learning new things
+- 🔭 I’m currently working on Data Science stuff
+- 🌱 I’m always keen on learning new things
