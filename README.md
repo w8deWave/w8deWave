@@ -2,5 +2,5 @@ Hi, I'm Valentina Vivaldi, an italian mathematician who has always lived by the 
 
 Beside's programming, I enjoy traveling :airplane: and practising different types of sports .
 
-- 🔭 I’m currently working on Data Science stuff
-- 🌱 I’m always keen on learning new things
+- 🔭 I’m currently working on Python
+- 🌱 I’m always keen on learning new stuff
